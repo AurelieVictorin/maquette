@@ -1,0 +1,252 @@
+body
+
+/*Dimensions Bloc NAV*/
+.navheader {
+	width: 75%;
+	height: 65px;
+	margin: auto;
+}
+
+/*CSS Bloc NAV du Haut*/
+.m {
+	width: 50px;
+	height: 50px;
+	margin: auto;
+	float: left;
+}
+
+.pnav1 {
+	float: right;
+}
+
+.signin {
+	font-family: Arial,sans-serif;
+	font-size: 18px;
+	color: blue;
+	text-decoration: none;
+}
+
+.getstarted {
+	font-family: Arial,sans-serif;
+	font-size: 18px;
+	color: blue;
+	text-decoration: none;
+  border: 1px solid;
+}
+
+/*CSS Bloc NAV du Bas*/
+#onezero1 {
+	width: auto;
+	height: 50px;
+	margin: auto;
+	float: left;
+}
+
+.pnav2 {
+	float: left;
+}
+
+.navbutton {
+	font-family: Arial,sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: grey;
+	text-decoration: none;
+	padding-left: 40px;
+}
+
+/*CSS Bloc Titre*/
+.titre {
+	width: 55%;
+	margin: auto;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h2 {
+	color: grey;
+}
+
+/*CSS Bloc Avatar Harry*/
+.harry {
+	overflow:hidden;
+	-webkit-border-radius:50px;
+	-moz-border-radius:50px;
+	border-radius:50px;
+	border: 20px solid white;
+	width:70px;
+	height:70px;
+	float: left;
+}
+
+.infoharry1 {
+	float: left;
+}
+
+.follow {
+	font-family: Arial,sans-serif;
+	font-size: 18px;
+	color: blue;
+	text-decoration: none;
+  border: 1px solid;
+}
+
+/*CSS Bloc Photo Paradise*/
+.photoparadise {
+	width: 75%;
+	height: 65px;
+	margin: auto;
+}
+
+/*CSS Contenu Image SECTION 1*/
+.paradise {
+	width: 100%;
+	height: auto;
+}
+
+.pcredit {
+	font-size: 15px;
+	text-align: center;
+}
+
+/*CSS Contenu Text + Reseaux*/
+
+
+.alltext {
+	width: 75%;
+	margin: auto;
+		line-height: 40px;
+}
+
+.reseaux {
+	float: left;
+		width: 18%;
+}
+
+
+.text {
+	font-size: 20px;
+	float: right;
+		width: 82%;
+}
+
+.onezero {
+	width: auto;
+	height: 30px;
+	margin: auto;
+	top: 20px;
+	float: left;
+}
+
+.y {
+  font-size: 80px;
+	color: white;
+	background-color: black;
+	border-radius: 50%;
+	border: 20px solid white;
+	width: 135px;
+	height: 135px;
+	margin: auto;
+	text-align: center;
+	line-height: 150px;
+	float: left;
+}
+
+
+
+/*CSS Boutons au bas du Text*/
+
+
+.textbutton {
+	font-size:20px;
+	width: auto;
+	height: auto;
+	padding-top: 10px;
+	text-align: center;
+	color: black;
+	background: grey;
+	border-radius: 3px;
+	text-decoration: none;
+}
+
+
+.lienbtext {
+	width: 100%;
+	margin: auto;
+		line-height: 40px;
+}
+
+
+.infoharry2 {
+	width: 30%;
+	height: auto;
+	margin: auto;
+	float: left;
+}
+
+
+.oz {
+	width: 30%;
+	height: auto;
+	margin: auto;
+	float: left;
+}
+
+.followb {
+	width: 20%;
+	height: auto;
+	margin: auto;
+	line-height: 100px;
+	float: left;
+}
+
+
+.amazonfooter {
+	width: 75%;
+	height: 65px;
+	margin: auto;
+}
+
+
+
+.footer {
+	width: 100%;
+	margin: auto;
+		line-height: 40px;
+}
+
+
+.blocfooter {
+	width: 20%;
+	height: auto;
+	margin: auto;
+	float: left;
+}
+
+.footertext1 {
+	font-size: 15px;
+}
+
+.footertext2 {
+	font-size: 30px;
+}
+
+.amazon {
+	width: 20%;
+	height: auto;
+	float: left;
+}
+
+.malaysia {
+	width: 20%;
+	height: auto;
+	float: left;
+}
+
+.libra {
+	width: 20%;
+	height: auto;
+	float: left;
+}
